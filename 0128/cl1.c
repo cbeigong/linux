@@ -1,10 +1,3 @@
-/*************************************************************************
-	> File Name: cl1.c
-	> Author: Comst
-	> Mail:750145240@qq.com
-	> Created Time: Wed 28 Jan 2015 08:22:04 PM CST
- ************************************************************************/
-
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>

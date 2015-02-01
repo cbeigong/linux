@@ -10,16 +10,26 @@
 
 int main(int argc , char* argv[])
 {
-    int fd21, fd31;
+    int fd21, fd31, fd12, fd13;
     int iret;
     char buf[1024];
-    fd21 = open(argv[1], O_RDONLY);
-    fd31 = open(argv[2], O_RDONLY);
+    fd12 = open("12", O_WRONLY);
+    fd13 = open("13", O_WRONLY);
+    fd21 = open("21", O_RDONLY);
+    fd31 = open("31", O_RDONLY);
     fd_set read_sets;
     struct timeval tm;
 
     while(1)
     {
+        memset(buf, 0, 1024);
+        read(0, buf, 1023);
+        write(fd12, buf, strlen(buf));
+
+        memset(buf, 0, 1024);
+        read(0, buf, 1023);
+        write(fd13, buf, strlen(buf));
+
         tm.tv_sec = 1;
         tm.tv_usec = 0;
         FD_ZERO(&read_sets);
@@ -49,5 +59,6 @@ int main(int argc , char* argv[])
 
         }
     }
+    return 0;
 
 }

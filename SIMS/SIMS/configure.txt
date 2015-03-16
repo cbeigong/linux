@@ -1,0 +1,2 @@
+E:/新建文件夹/C_STUDY/SIMS/SIMS/usr_account.txt
+E:/新建文件夹/C_STUDY/SIMS/SIMS/usr_info.txt

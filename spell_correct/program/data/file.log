@@ -1,0 +1,1160 @@
+2015-01-23 19:22:57,948: NOTICE set cache thread log_system 
+2015-01-23 19:22:57,948: NOTICE set cache thread hash_map cache
+2015-01-23 19:22:57,948: NOTICE set run thread log_system
+2015-01-23 19:22:57,948: NOTICE set run thread's hash_map cache
+2015-01-23 19:22:57,948: NOTICE set run thread log_system
+2015-01-23 19:22:57,948: NOTICE set run thread's hash_map cache
+2015-01-23 19:22:57,948: NOTICE set run thread log_system
+2015-01-23 19:22:57,948: NOTICE set run thread's hash_map cache
+2015-01-23 19:22:57,948: NOTICE set run thread log_system
+2015-01-23 19:22:57,948: NOTICE set run thread's hash_map cache
+2015-01-23 19:22:57,949: NOTICE set run thread log_system
+2015-01-23 19:22:57,949: NOTICE set run thread's hash_map cache
+2015-01-23 19:22:57,949: NOTICE disk cache read is over!
+2015-01-23 19:22:57,949: NOTICE cache synchronize start!
+2015-01-23 19:22:57,949: NOTICE set run thread log_system
+2015-01-23 19:22:57,949: NOTICE set run thread's hash_map cache
+2015-01-23 19:22:57,949: NOTICE set run thread log_system
+2015-01-23 19:22:57,949: NOTICE set run thread's hash_map cache
+2015-01-23 19:22:57,949: NOTICE set run thread log_system
+2015-01-23 19:22:57,949: NOTICE set run thread's hash_map cache
+2015-01-23 19:22:57,949: NOTICE set run thread log_system
+2015-01-23 19:22:57,949: NOTICE set run thread's hash_map cache
+2015-01-23 19:22:57,949: NOTICE set run thread log_system
+2015-01-23 19:22:57,949: NOTICE set run thread's hash_map cache
+2015-01-23 19:22:57,949: NOTICE server wait for connecting
+2015-01-23 19:22:57,950: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:22:57,950: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:22:57,950: NOTICE disk cache write is over!
+2015-01-23 19:22:57,950: NOTICE synchronize over!
+2015-01-23 19:23:07,954: NOTICE cache synchronize start!
+2015-01-23 19:23:07,955: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:23:07,955: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:23:07,955: NOTICE disk cache write is over!
+2015-01-23 19:23:07,956: NOTICE synchronize over!
+2015-01-23 19:23:17,957: NOTICE cache synchronize start!
+2015-01-23 19:23:17,959: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:23:17,959: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:23:17,959: NOTICE disk cache write is over!
+2015-01-23 19:23:17,959: NOTICE synchronize over!
+2015-01-23 19:23:27,962: NOTICE cache synchronize start!
+2015-01-23 19:23:27,963: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:23:27,963: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:23:27,964: NOTICE disk cache write is over!
+2015-01-23 19:23:27,964: NOTICE synchronize over!
+2015-01-23 19:23:37,969: NOTICE cache synchronize start!
+2015-01-23 19:23:37,971: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:23:37,971: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:23:37,971: NOTICE disk cache write is over!
+2015-01-23 19:23:37,971: NOTICE synchronize over!
+2015-01-23 19:23:47,973: NOTICE cache synchronize start!
+2015-01-23 19:23:47,975: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:23:47,975: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:23:47,975: NOTICE disk cache write is over!
+2015-01-23 19:23:47,976: NOTICE synchronize over!
+2015-01-23 19:23:57,977: NOTICE cache synchronize start!
+2015-01-23 19:23:57,979: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:23:57,979: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:23:57,979: NOTICE disk cache write is over!
+2015-01-23 19:23:57,980: NOTICE synchronize over!
+2015-01-23 19:24:07,983: NOTICE cache synchronize start!
+2015-01-23 19:24:07,985: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:24:07,985: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:24:07,985: NOTICE disk cache write is over!
+2015-01-23 19:24:07,985: NOTICE synchronize over!
+2015-01-23 19:24:12,257: NOTICE epoll
+2015-01-23 19:24:12,257: NOTICE run thread's hash_map cache no result,go to hash_map index of dic for answer
+2015-01-23 19:24:12,260: ERROR send
+2015-01-23 19:24:15,195: NOTICE epoll
+2015-01-23 19:24:15,196: NOTICE run thread's hash_map cache no result,go to hash_map index of dic for answer
+2015-01-23 19:24:15,197: ERROR send
+2015-01-23 19:24:17,471: NOTICE epoll
+2015-01-23 19:24:17,471: NOTICE run thread's hash_map cache no result,go to hash_map index of dic for answer
+2015-01-23 19:24:17,476: ERROR send
+2015-01-23 19:24:17,993: NOTICE cache synchronize start!
+2015-01-23 19:24:17,995: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:24:17,995: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:24:17,995: NOTICE disk cache write is over!
+2015-01-23 19:24:17,995: NOTICE synchronize over!
+2015-01-23 19:24:28,000: NOTICE cache synchronize start!
+2015-01-23 19:24:28,002: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:24:28,002: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:24:28,002: NOTICE disk cache write is over!
+2015-01-23 19:24:28,002: NOTICE synchronize over!
+2015-01-23 19:24:38,003: NOTICE cache synchronize start!
+2015-01-23 19:24:38,004: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:24:38,004: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:24:38,005: NOTICE disk cache write is over!
+2015-01-23 19:24:38,005: NOTICE synchronize over!
+2015-01-23 19:24:48,007: NOTICE cache synchronize start!
+2015-01-23 19:24:48,009: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:24:48,009: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:24:48,009: NOTICE disk cache write is over!
+2015-01-23 19:24:48,009: NOTICE synchronize over!
+2015-01-23 19:24:52,773: NOTICE epoll
+2015-01-23 19:24:52,773: NOTICE run thread's hash_map cache no result,go to hash_map index of dic for answer
+2015-01-23 19:24:53,856: ERROR send
+2015-01-23 19:24:58,016: NOTICE cache synchronize start!
+2015-01-23 19:24:58,017: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:24:58,017: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:24:58,018: NOTICE disk cache write is over!
+2015-01-23 19:24:58,018: NOTICE synchronize over!
+2015-01-23 19:24:59,137: NOTICE epoll
+2015-01-23 19:24:59,138: NOTICE run thread's hash_map cache no result,go to hash_map index of dic for answer
+2015-01-23 19:25:00,402: ERROR send
+2015-01-23 19:25:06,151: NOTICE epoll
+2015-01-23 19:25:06,152: NOTICE run thread's hash_map cache has result,return answer to client directly
+2015-01-23 19:25:06,152: ERROR send
+2015-01-23 19:25:08,022: NOTICE cache synchronize start!
+2015-01-23 19:25:08,023: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:25:08,023: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:25:08,024: NOTICE disk cache write is over!
+2015-01-23 19:25:08,024: NOTICE synchronize over!
+2015-01-23 19:25:18,032: NOTICE cache synchronize start!
+2015-01-23 19:25:18,034: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:25:18,034: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:25:18,034: NOTICE disk cache write is over!
+2015-01-23 19:25:18,035: NOTICE synchronize over!
+2015-01-23 19:25:28,047: NOTICE cache synchronize start!
+2015-01-23 19:25:28,048: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:25:28,048: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:25:28,049: NOTICE disk cache write is over!
+2015-01-23 19:25:28,049: NOTICE synchronize over!
+2015-01-23 19:25:38,053: NOTICE cache synchronize start!
+2015-01-23 19:25:38,055: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:25:38,055: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:25:38,055: NOTICE disk cache write is over!
+2015-01-23 19:25:38,055: NOTICE synchronize over!
+2015-01-23 19:25:48,060: NOTICE cache synchronize start!
+2015-01-23 19:25:48,062: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:25:48,062: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:25:48,062: NOTICE disk cache write is over!
+2015-01-23 19:25:48,063: NOTICE synchronize over!
+2015-01-23 19:25:58,065: NOTICE cache synchronize start!
+2015-01-23 19:25:58,066: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:25:58,066: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:25:58,067: NOTICE disk cache write is over!
+2015-01-23 19:25:58,067: NOTICE synchronize over!
+2015-01-23 19:26:08,067: NOTICE cache synchronize start!
+2015-01-23 19:26:08,069: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:26:08,069: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:26:08,070: NOTICE disk cache write is over!
+2015-01-23 19:26:08,070: NOTICE synchronize over!
+2015-01-23 19:26:18,072: NOTICE cache synchronize start!
+2015-01-23 19:26:18,074: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:26:18,074: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:26:18,075: NOTICE disk cache write is over!
+2015-01-23 19:26:18,075: NOTICE synchronize over!
+2015-01-23 19:26:28,076: NOTICE cache synchronize start!
+2015-01-23 19:26:28,078: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:26:28,078: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:26:28,078: NOTICE disk cache write is over!
+2015-01-23 19:26:28,078: NOTICE synchronize over!
+2015-01-23 19:26:38,070: NOTICE epoll
+2015-01-23 19:26:38,071: NOTICE run thread's hash_map cache no result,go to hash_map index of dic for answer
+2015-01-23 19:26:38,079: NOTICE cache synchronize start!
+2015-01-23 19:26:38,080: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:26:38,080: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:26:38,080: NOTICE disk cache write is over!
+2015-01-23 19:26:38,080: NOTICE synchronize over!
+2015-01-23 19:26:38,104: ERROR send
+2015-01-23 19:26:48,129: NOTICE cache synchronize start!
+2015-01-23 19:26:48,131: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:26:48,131: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:26:48,131: NOTICE disk cache write is over!
+2015-01-23 19:26:48,131: NOTICE synchronize over!
+2015-01-23 19:26:58,134: NOTICE cache synchronize start!
+2015-01-23 19:26:58,136: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:26:58,136: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:26:58,136: NOTICE disk cache write is over!
+2015-01-23 19:26:58,137: NOTICE synchronize over!
+2015-01-23 19:50:44,402: NOTICE set cache thread log_system 
+2015-01-23 19:50:44,402: NOTICE set cache thread hash_map cache
+2015-01-23 19:50:44,402: NOTICE set run thread log_system
+2015-01-23 19:50:44,402: NOTICE set run thread's hash_map cache
+2015-01-23 19:50:44,403: NOTICE set run thread log_system
+2015-01-23 19:50:44,403: NOTICE set run thread's hash_map cache
+2015-01-23 19:50:44,403: NOTICE set run thread log_system
+2015-01-23 19:50:44,403: NOTICE set run thread's hash_map cache
+2015-01-23 19:50:44,403: NOTICE set run thread log_system
+2015-01-23 19:50:44,403: NOTICE set run thread's hash_map cache
+2015-01-23 19:50:44,403: NOTICE disk cache read is over!
+2015-01-23 19:50:44,403: NOTICE cache synchronize start!
+2015-01-23 19:50:44,404: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:50:44,404: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:50:44,404: NOTICE set run thread log_system
+2015-01-23 19:50:44,404: NOTICE set run thread's hash_map cache
+2015-01-23 19:50:44,405: NOTICE disk cache write is over!
+2015-01-23 19:50:44,405: NOTICE set run thread log_system
+2015-01-23 19:50:44,405: NOTICE set run thread's hash_map cache
+2015-01-23 19:50:44,405: NOTICE set run thread log_system
+2015-01-23 19:50:44,405: NOTICE set run thread's hash_map cache
+2015-01-23 19:50:44,405: NOTICE synchronize over!
+2015-01-23 19:50:44,405: NOTICE set run thread log_system
+2015-01-23 19:50:44,405: NOTICE set run thread's hash_map cache
+2015-01-23 19:50:44,405: NOTICE set run thread log_system
+2015-01-23 19:50:44,405: NOTICE set run thread's hash_map cache
+2015-01-23 19:50:44,406: NOTICE set run thread log_system
+2015-01-23 19:50:44,406: NOTICE set run thread's hash_map cache
+2015-01-23 19:50:44,406: NOTICE server wait for connecting
+2015-01-23 19:50:54,410: NOTICE cache synchronize start!
+2015-01-23 19:50:54,411: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:50:54,411: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:50:54,412: NOTICE disk cache write is over!
+2015-01-23 19:50:54,412: NOTICE synchronize over!
+2015-01-23 19:51:04,424: NOTICE cache synchronize start!
+2015-01-23 19:51:04,426: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:51:04,426: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:51:04,426: NOTICE disk cache write is over!
+2015-01-23 19:51:04,427: NOTICE synchronize over!
+2015-01-23 19:51:10,830: NOTICE server recv query from client(IP10.211.55.5:47636)
+2015-01-23 19:51:10,830: NOTICE run thread's hash_map cache no result,go to hash_map index of dic for answer
+2015-01-23 19:51:10,833: NOTICE send msg successful to client(IP10.211.55.5:47636)
+2015-01-23 19:51:14,453: NOTICE cache synchronize start!
+2015-01-23 19:51:14,455: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:51:14,455: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:51:14,455: NOTICE disk cache write is over!
+2015-01-23 19:51:14,456: NOTICE synchronize over!
+2015-01-23 19:51:24,505: NOTICE cache synchronize start!
+2015-01-23 19:51:24,507: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:51:24,507: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:51:24,507: NOTICE disk cache write is over!
+2015-01-23 19:51:24,508: NOTICE synchronize over!
+2015-01-23 19:51:34,534: NOTICE cache synchronize start!
+2015-01-23 19:51:34,536: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:51:34,536: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:51:34,536: NOTICE disk cache write is over!
+2015-01-23 19:51:34,537: NOTICE synchronize over!
+2015-01-23 19:51:44,538: NOTICE cache synchronize start!
+2015-01-23 19:51:44,539: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:51:44,539: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:51:44,539: NOTICE disk cache write is over!
+2015-01-23 19:51:44,540: NOTICE synchronize over!
+2015-01-23 19:51:54,543: NOTICE cache synchronize start!
+2015-01-23 19:51:54,545: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:51:54,545: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:51:54,545: NOTICE disk cache write is over!
+2015-01-23 19:51:54,546: NOTICE synchronize over!
+2015-01-23 19:52:04,551: NOTICE cache synchronize start!
+2015-01-23 19:52:04,553: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:52:04,553: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:52:04,553: NOTICE disk cache write is over!
+2015-01-23 19:52:04,554: NOTICE synchronize over!
+2015-01-23 19:52:14,557: NOTICE cache synchronize start!
+2015-01-23 19:52:14,559: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:52:14,559: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:52:14,559: NOTICE disk cache write is over!
+2015-01-23 19:52:14,560: NOTICE synchronize over!
+2015-01-23 19:52:19,512: NOTICE server recv query from client(IP10.211.55.5:52744)
+2015-01-23 19:52:19,512: NOTICE run thread's hash_map cache no result,go to hash_map index of dic for answer
+2015-01-23 19:52:19,512: NOTICE send msg successful to client(IP10.211.55.5:52744)
+2015-01-23 19:52:24,561: NOTICE cache synchronize start!
+2015-01-23 19:52:24,562: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:52:24,562: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:52:24,562: NOTICE disk cache write is over!
+2015-01-23 19:52:24,562: NOTICE synchronize over!
+2015-01-23 19:52:25,700: NOTICE server recv query from client(IP10.211.55.5:53171)
+2015-01-23 19:52:25,700: NOTICE run thread's hash_map cache no result,go to hash_map index of dic for answer
+2015-01-23 19:52:25,705: NOTICE send msg successful to client(IP10.211.55.5:53171)
+2015-01-23 19:52:29,789: NOTICE server recv query from client(IP10.211.55.5:36477)
+2015-01-23 19:52:29,789: NOTICE run thread's hash_map cache no result,go to hash_map index of dic for answer
+2015-01-23 19:54:46,187: NOTICE set cache thread log_system 
+2015-01-23 19:54:46,187: NOTICE set cache thread hash_map cache
+2015-01-23 19:54:46,187: NOTICE set run thread log_system
+2015-01-23 19:54:46,187: NOTICE set run thread's hash_map cache
+2015-01-23 19:54:46,187: NOTICE set run thread log_system
+2015-01-23 19:54:46,187: NOTICE set run thread's hash_map cache
+2015-01-23 19:54:46,187: NOTICE set run thread log_system
+2015-01-23 19:54:46,187: NOTICE set run thread's hash_map cache
+2015-01-23 19:54:46,187: NOTICE disk cache read is over!
+2015-01-23 19:54:46,187: NOTICE cache synchronize start!
+2015-01-23 19:54:46,188: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:54:46,188: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:54:46,189: NOTICE disk cache write is over!
+2015-01-23 19:54:46,187: NOTICE set run thread log_system
+2015-01-23 19:54:46,189: NOTICE set run thread's hash_map cache
+2015-01-23 19:54:46,189: NOTICE set run thread log_system
+2015-01-23 19:54:46,189: NOTICE set run thread's hash_map cache
+2015-01-23 19:54:46,189: NOTICE set run thread log_system
+2015-01-23 19:54:46,189: NOTICE set run thread's hash_map cache
+2015-01-23 19:54:46,189: NOTICE set run thread log_system
+2015-01-23 19:54:46,189: NOTICE set run thread's hash_map cache
+2015-01-23 19:54:46,189: NOTICE set run thread log_system
+2015-01-23 19:54:46,189: NOTICE set run thread's hash_map cache
+2015-01-23 19:54:46,189: NOTICE synchronize over!
+2015-01-23 19:54:46,189: NOTICE set run thread log_system
+2015-01-23 19:54:46,189: NOTICE set run thread's hash_map cache
+2015-01-23 19:54:46,189: NOTICE set run thread log_system
+2015-01-23 19:54:46,190: NOTICE set run thread's hash_map cache
+2015-01-23 19:54:46,190: NOTICE server wait for connecting
+2015-01-23 19:54:56,190: NOTICE cache synchronize start!
+2015-01-23 19:54:56,192: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:54:56,192: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:54:56,192: NOTICE disk cache write is over!
+2015-01-23 19:54:56,193: NOTICE synchronize over!
+2015-01-23 19:55:06,200: NOTICE cache synchronize start!
+2015-01-23 19:55:06,201: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:55:06,202: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:55:06,202: NOTICE disk cache write is over!
+2015-01-23 19:55:06,202: NOTICE synchronize over!
+2015-01-23 19:55:16,204: NOTICE cache synchronize start!
+2015-01-23 19:55:16,206: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:55:16,206: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:55:16,206: NOTICE disk cache write is over!
+2015-01-23 19:55:16,207: NOTICE synchronize over!
+2015-01-23 19:55:21,101: NOTICE server recv query from client(IP10.211.55.5:51675)
+2015-01-23 19:55:21,101: NOTICE run thread's hash_map cache no result,go to hash_map index of dic for answer
+2015-01-23 19:55:21,103: NOTICE send msg successful to client(IP10.211.55.5:51675)
+2015-01-23 19:55:26,208: NOTICE cache synchronize start!
+2015-01-23 19:55:26,209: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:55:26,209: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:55:26,210: NOTICE disk cache write is over!
+2015-01-23 19:55:26,210: NOTICE synchronize over!
+2015-01-23 19:55:30,959: NOTICE server recv query from client(IP10.211.55.5:48145)
+2015-01-23 19:55:30,959: NOTICE run thread's hash_map cache has result,return answer to client directly
+2015-01-23 19:55:30,960: NOTICE send msg successful to client(IP10.211.55.5:48145)
+2015-01-23 19:55:36,237: NOTICE cache synchronize start!
+2015-01-23 19:55:36,239: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:55:36,239: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:55:36,239: NOTICE disk cache write is over!
+2015-01-23 19:55:36,239: NOTICE synchronize over!
+2015-01-23 19:55:46,244: NOTICE cache synchronize start!
+2015-01-23 19:55:46,246: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:55:46,246: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:55:46,246: NOTICE disk cache write is over!
+2015-01-23 19:55:46,247: NOTICE synchronize over!
+2015-01-23 19:55:59,358: NOTICE set cache thread log_system 
+2015-01-23 19:55:59,358: NOTICE set cache thread hash_map cache
+2015-01-23 19:55:59,358: NOTICE set run thread log_system
+2015-01-23 19:55:59,358: NOTICE set run thread's hash_map cache
+2015-01-23 19:55:59,358: NOTICE set run thread log_system
+2015-01-23 19:55:59,358: NOTICE set run thread's hash_map cache
+2015-01-23 19:55:59,358: NOTICE set run thread log_system
+2015-01-23 19:55:59,358: NOTICE set run thread's hash_map cache
+2015-01-23 19:55:59,358: NOTICE set run thread log_system
+2015-01-23 19:55:59,359: NOTICE set run thread's hash_map cache
+2015-01-23 19:55:59,359: NOTICE disk cache read is over!
+2015-01-23 19:55:59,359: NOTICE cache synchronize start!
+2015-01-23 19:55:59,359: NOTICE set run thread log_system
+2015-01-23 19:55:59,359: NOTICE set run thread's hash_map cache
+2015-01-23 19:55:59,359: NOTICE set run thread log_system
+2015-01-23 19:55:59,359: NOTICE set run thread's hash_map cache
+2015-01-23 19:55:59,359: NOTICE set run thread log_system
+2015-01-23 19:55:59,359: NOTICE set run thread's hash_map cache
+2015-01-23 19:55:59,359: NOTICE set run thread log_system
+2015-01-23 19:55:59,359: NOTICE set run thread's hash_map cache
+2015-01-23 19:55:59,359: NOTICE set run thread log_system
+2015-01-23 19:55:59,359: NOTICE set run thread's hash_map cache
+2015-01-23 19:55:59,359: NOTICE set run thread log_system
+2015-01-23 19:55:59,359: NOTICE set run thread's hash_map cache
+2015-01-23 19:55:59,359: NOTICE server wait for connecting
+2015-01-23 19:55:59,359: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:55:59,359: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:55:59,360: NOTICE disk cache write is over!
+2015-01-23 19:55:59,360: NOTICE synchronize over!
+2015-01-23 19:56:09,365: NOTICE cache synchronize start!
+2015-01-23 19:56:09,367: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:56:09,367: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:56:09,367: NOTICE disk cache write is over!
+2015-01-23 19:56:09,367: NOTICE synchronize over!
+2015-01-23 19:56:19,370: NOTICE cache synchronize start!
+2015-01-23 19:56:19,372: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:56:19,372: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:56:19,372: NOTICE disk cache write is over!
+2015-01-23 19:56:19,372: NOTICE synchronize over!
+2015-01-23 19:56:29,393: NOTICE cache synchronize start!
+2015-01-23 19:56:29,395: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:56:29,395: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:56:29,395: NOTICE disk cache write is over!
+2015-01-23 19:56:29,396: NOTICE synchronize over!
+2015-01-23 19:56:39,400: NOTICE cache synchronize start!
+2015-01-23 19:56:39,402: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 19:56:39,402: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 19:56:39,402: NOTICE disk cache write is over!
+2015-01-23 19:56:39,402: NOTICE synchronize over!
+2015-01-23 20:02:33,837: NOTICE set cache thread log_system 
+2015-01-23 20:02:33,838: NOTICE set cache thread hash_map cache
+2015-01-23 20:02:33,838: NOTICE set run thread log_system
+2015-01-23 20:02:33,838: NOTICE set run thread's hash_map cache
+2015-01-23 20:02:33,838: NOTICE set run thread log_system
+2015-01-23 20:02:33,838: NOTICE set run thread's hash_map cache
+2015-01-23 20:02:33,838: NOTICE set run thread log_system
+2015-01-23 20:02:33,838: NOTICE set run thread's hash_map cache
+2015-01-23 20:02:33,838: NOTICE disk cache read is over!
+2015-01-23 20:02:33,838: NOTICE cache synchronize start!
+2015-01-23 20:02:33,838: NOTICE set run thread log_system
+2015-01-23 20:02:33,839: NOTICE set run thread's hash_map cache
+2015-01-23 20:02:33,839: NOTICE set run thread log_system
+2015-01-23 20:02:33,839: NOTICE set run thread's hash_map cache
+2015-01-23 20:02:33,839: NOTICE set run thread log_system
+2015-01-23 20:02:33,839: NOTICE set run thread's hash_map cache
+2015-01-23 20:02:33,839: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 20:02:33,839: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 20:02:33,839: NOTICE disk cache write is over!
+2015-01-23 20:02:33,839: NOTICE set run thread log_system
+2015-01-23 20:02:33,839: NOTICE set run thread's hash_map cache
+2015-01-23 20:02:33,839: NOTICE set run thread log_system
+2015-01-23 20:02:33,839: NOTICE set run thread's hash_map cache
+2015-01-23 20:02:33,839: NOTICE set run thread log_system
+2015-01-23 20:02:33,839: NOTICE set run thread's hash_map cache
+2015-01-23 20:02:33,839: NOTICE set run thread log_system
+2015-01-23 20:02:33,839: NOTICE set run thread's hash_map cache
+2015-01-23 20:02:33,839: NOTICE synchronize over!
+2015-01-23 20:02:33,839: NOTICE server wait for connecting.........
+2015-01-23 20:02:43,841: NOTICE cache synchronize start!
+2015-01-23 20:02:43,843: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 20:02:43,843: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 20:02:43,843: NOTICE disk cache write is over!
+2015-01-23 20:02:43,843: NOTICE synchronize over!
+2015-01-23 20:02:53,844: NOTICE cache synchronize start!
+2015-01-23 20:02:53,846: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 20:02:53,846: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 20:02:53,846: NOTICE disk cache write is over!
+2015-01-23 20:02:53,846: NOTICE synchronize over!
+2015-01-23 20:03:03,917: NOTICE cache synchronize start!
+2015-01-23 20:03:03,919: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 20:03:03,919: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 20:03:03,919: NOTICE disk cache write is over!
+2015-01-23 20:03:03,919: NOTICE synchronize over!
+2015-01-23 20:03:13,923: NOTICE cache synchronize start!
+2015-01-23 20:03:13,925: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 20:03:13,925: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 20:03:13,925: NOTICE disk cache write is over!
+2015-01-23 20:03:13,926: NOTICE synchronize over!
+2015-01-23 20:03:23,929: NOTICE cache synchronize start!
+2015-01-23 20:03:23,931: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 20:03:23,931: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 20:03:23,931: NOTICE disk cache write is over!
+2015-01-23 20:03:23,931: NOTICE synchronize over!
+2015-01-23 20:03:25,976: NOTICE server recv query from client(IP10.211.55.5:54838)
+2015-01-23 20:03:25,977: NOTICE run thread's hash_map cache no result,go to hash_map index of dic for answer
+2015-01-23 20:03:25,979: NOTICE send msg successful to client(IP10.211.55.5:54838)
+2015-01-23 20:03:28,617: NOTICE server recv query from client(IP10.211.55.5:36552)
+2015-01-23 20:03:28,617: NOTICE run thread's hash_map cache no result,go to hash_map index of dic for answer
+2015-01-23 20:03:28,618: NOTICE send msg successful to client(IP10.211.55.5:36552)
+2015-01-23 20:03:31,190: NOTICE server recv query from client(IP10.211.55.5:32977)
+2015-01-23 20:03:31,190: NOTICE run thread's hash_map cache no result,go to hash_map index of dic for answer
+2015-01-23 20:03:31,191: NOTICE send msg successful to client(IP10.211.55.5:32977)
+2015-01-23 20:03:33,936: NOTICE cache synchronize start!
+2015-01-23 20:03:33,938: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 20:03:33,938: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 20:03:33,938: NOTICE disk cache write is over!
+2015-01-23 20:03:33,938: NOTICE synchronize over!
+2015-01-23 20:03:43,942: NOTICE cache synchronize start!
+2015-01-23 20:03:43,944: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 20:03:43,944: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 20:03:43,944: NOTICE disk cache write is over!
+2015-01-23 20:03:43,945: NOTICE synchronize over!
+2015-01-23 20:03:53,952: NOTICE cache synchronize start!
+2015-01-23 20:03:53,953: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 20:03:53,953: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 20:03:53,954: NOTICE disk cache write is over!
+2015-01-23 20:03:53,954: NOTICE synchronize over!
+2015-01-23 20:04:03,961: NOTICE cache synchronize start!
+2015-01-23 20:04:03,963: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 20:04:03,963: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 20:04:03,963: NOTICE disk cache write is over!
+2015-01-23 20:04:03,963: NOTICE synchronize over!
+2015-01-23 20:04:13,969: NOTICE cache synchronize start!
+2015-01-23 20:04:13,971: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 20:04:13,971: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 20:04:13,971: NOTICE disk cache write is over!
+2015-01-23 20:04:13,971: NOTICE synchronize over!
+2015-01-23 20:04:23,971: NOTICE cache synchronize start!
+2015-01-23 20:04:23,973: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 20:04:23,973: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 20:04:23,973: NOTICE disk cache write is over!
+2015-01-23 20:04:23,974: NOTICE synchronize over!
+2015-01-23 20:04:33,976: NOTICE cache synchronize start!
+2015-01-23 20:04:33,978: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 20:04:33,978: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 20:04:33,978: NOTICE disk cache write is over!
+2015-01-23 20:04:33,979: NOTICE synchronize over!
+2015-01-23 20:04:43,979: NOTICE cache synchronize start!
+2015-01-23 20:04:43,981: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 20:04:43,981: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 20:04:43,981: NOTICE disk cache write is over!
+2015-01-23 20:04:43,981: NOTICE synchronize over!
+2015-01-23 20:04:53,989: NOTICE cache synchronize start!
+2015-01-23 20:04:53,993: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 20:04:53,993: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 20:04:53,993: NOTICE disk cache write is over!
+2015-01-23 20:04:53,993: NOTICE synchronize over!
+2015-01-23 20:05:03,994: NOTICE cache synchronize start!
+2015-01-23 20:05:03,996: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 20:05:03,996: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 20:05:03,996: NOTICE disk cache write is over!
+2015-01-23 20:05:03,996: NOTICE synchronize over!
+2015-01-23 20:05:14,004: NOTICE cache synchronize start!
+2015-01-23 20:05:14,006: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 20:05:14,006: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 20:05:14,006: NOTICE disk cache write is over!
+2015-01-23 20:05:14,007: NOTICE synchronize over!
+2015-01-23 20:05:24,007: NOTICE cache synchronize start!
+2015-01-23 20:05:24,008: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 20:05:24,008: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 20:05:24,009: NOTICE disk cache write is over!
+2015-01-23 20:05:24,009: NOTICE synchronize over!
+2015-01-23 20:05:34,010: NOTICE cache synchronize start!
+2015-01-23 20:05:34,010: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 20:05:34,010: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 20:05:34,011: NOTICE disk cache write is over!
+2015-01-23 20:05:34,011: NOTICE synchronize over!
+2015-01-23 20:05:44,013: NOTICE cache synchronize start!
+2015-01-23 20:05:44,015: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 20:05:44,015: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 20:05:44,015: NOTICE disk cache write is over!
+2015-01-23 20:05:44,015: NOTICE synchronize over!
+2015-01-23 20:05:54,023: NOTICE cache synchronize start!
+2015-01-23 20:05:54,025: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 20:05:54,025: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 20:05:54,025: NOTICE disk cache write is over!
+2015-01-23 20:05:54,025: NOTICE synchronize over!
+2015-01-23 22:06:02,824: NOTICE cache synchronize start!
+2015-01-23 22:06:02,825: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 22:06:02,825: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 22:06:02,825: NOTICE disk cache write is over!
+2015-01-23 22:06:02,826: NOTICE synchronize over!
+2015-01-23 22:48:00,193: NOTICE cache synchronize start!
+2015-01-23 22:48:00,194: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 22:48:00,194: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 22:48:00,194: NOTICE disk cache write is over!
+2015-01-23 22:48:00,194: NOTICE synchronize over!
+2015-01-23 22:49:09,849: NOTICE cache synchronize start!
+2015-01-23 22:49:09,851: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 22:49:09,851: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 22:49:09,852: NOTICE disk cache write is over!
+2015-01-23 22:49:09,852: NOTICE synchronize over!
+2015-01-23 22:49:20,118: NOTICE set cache thread log_system 
+2015-01-23 22:49:20,118: NOTICE set cache thread hash_map cache
+2015-01-23 22:49:20,118: NOTICE set run thread log_system
+2015-01-23 22:49:20,118: NOTICE set run thread's hash_map cache
+2015-01-23 22:49:20,118: NOTICE disk cache read is over!
+2015-01-23 22:49:20,118: NOTICE cache synchronize start!
+2015-01-23 22:49:20,119: NOTICE set run thread log_system
+2015-01-23 22:49:20,119: NOTICE set run thread's hash_map cache
+2015-01-23 22:49:20,119: NOTICE set run thread log_system
+2015-01-23 22:49:20,119: NOTICE set run thread's hash_map cache
+2015-01-23 22:49:20,119: NOTICE set run thread log_system
+2015-01-23 22:49:20,119: NOTICE set run thread's hash_map cache
+2015-01-23 22:49:20,119: NOTICE set run thread log_system
+2015-01-23 22:49:20,119: NOTICE set run thread's hash_map cache
+2015-01-23 22:49:20,119: NOTICE set run thread log_system
+2015-01-23 22:49:20,119: NOTICE set run thread's hash_map cache
+2015-01-23 22:49:20,119: NOTICE set run thread log_system
+2015-01-23 22:49:20,119: NOTICE set run thread's hash_map cache
+2015-01-23 22:49:20,119: NOTICE set run thread log_system
+2015-01-23 22:49:20,119: NOTICE set run thread's hash_map cache
+2015-01-23 22:49:20,119: NOTICE set run thread log_system
+2015-01-23 22:49:20,119: NOTICE set run thread's hash_map cache
+2015-01-23 22:49:20,119: NOTICE set run thread log_system
+2015-01-23 22:49:20,119: NOTICE set run thread's hash_map cache
+2015-01-23 22:49:20,119: NOTICE server wait for connecting.........
+2015-01-23 22:49:20,120: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 22:49:20,120: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 22:49:20,120: NOTICE disk cache write is over!
+2015-01-23 22:49:20,120: NOTICE synchronize over!
+2015-01-23 22:49:30,126: NOTICE cache synchronize start!
+2015-01-23 22:49:30,127: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 22:49:30,127: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 22:49:30,128: NOTICE disk cache write is over!
+2015-01-23 22:49:30,128: NOTICE synchronize over!
+2015-01-23 22:49:32,493: NOTICE server recv query from client(IP10.211.55.5:53673)
+2015-01-23 22:49:32,493: NOTICE run thread's hash_map cache no result,go to hash_map index of dic for answer
+2015-01-23 22:49:32,493: NOTICE send msg successful to client(IP10.211.55.5:53673)
+2015-01-23 22:49:40,129: NOTICE cache synchronize start!
+2015-01-23 22:49:40,131: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 22:49:40,131: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 22:49:40,131: NOTICE disk cache write is over!
+2015-01-23 22:49:40,132: NOTICE synchronize over!
+2015-01-23 22:49:50,134: NOTICE cache synchronize start!
+2015-01-23 22:49:50,136: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 22:49:50,136: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 22:49:50,136: NOTICE disk cache write is over!
+2015-01-23 22:49:50,137: NOTICE synchronize over!
+2015-01-23 22:50:00,137: NOTICE cache synchronize start!
+2015-01-23 22:50:00,139: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 22:50:00,139: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 22:50:00,139: NOTICE disk cache write is over!
+2015-01-23 22:50:00,140: NOTICE synchronize over!
+2015-01-23 22:50:10,143: NOTICE cache synchronize start!
+2015-01-23 22:50:10,144: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 22:50:10,144: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 22:50:10,145: NOTICE disk cache write is over!
+2015-01-23 22:50:10,145: NOTICE synchronize over!
+2015-01-23 22:50:20,149: NOTICE cache synchronize start!
+2015-01-23 22:50:20,151: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-23 22:50:20,151: NOTICE cache thread syschronize result back to thread_pool
+2015-01-23 22:50:20,151: NOTICE disk cache write is over!
+2015-01-23 22:50:20,151: NOTICE synchronize over!
+2015-01-24 13:57:09,870: NOTICE set cache thread log_system 
+2015-01-24 13:57:09,870: NOTICE set cache thread hash_map cache
+2015-01-24 13:57:09,870: NOTICE set run thread log_system
+2015-01-24 13:57:09,870: NOTICE set run thread's hash_map cache
+2015-01-24 13:57:09,870: NOTICE set run thread log_system
+2015-01-24 13:57:09,870: NOTICE set run thread's hash_map cache
+2015-01-24 13:57:09,870: NOTICE set run thread log_system
+2015-01-24 13:57:09,870: NOTICE set run thread's hash_map cache
+2015-01-24 13:57:09,871: NOTICE set run thread log_system
+2015-01-24 13:57:09,871: NOTICE set run thread's hash_map cache
+2015-01-24 13:57:09,871: NOTICE set run thread log_system
+2015-01-24 13:57:09,871: NOTICE set run thread's hash_map cache
+2015-01-24 13:57:09,871: NOTICE set run thread log_system
+2015-01-24 13:57:09,871: NOTICE set run thread's hash_map cache
+2015-01-24 13:57:09,871: NOTICE set run thread log_system
+2015-01-24 13:57:09,871: NOTICE set run thread's hash_map cache
+2015-01-24 13:57:09,871: NOTICE set run thread log_system
+2015-01-24 13:57:09,871: NOTICE set run thread's hash_map cache
+2015-01-24 13:57:09,871: NOTICE set run thread log_system
+2015-01-24 13:57:09,871: NOTICE set run thread's hash_map cache
+2015-01-24 13:57:09,871: NOTICE set run thread log_system
+2015-01-24 13:57:09,871: NOTICE set run thread's hash_map cache
+2015-01-24 13:57:09,871: NOTICE server wait for connecting.........
+2015-01-24 13:57:09,879: NOTICE disk cache read is over!
+2015-01-24 13:57:09,879: NOTICE cache synchronize start!
+2015-01-24 13:57:09,881: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 13:57:09,881: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 13:57:09,881: NOTICE disk cache write is over!
+2015-01-24 13:57:09,881: NOTICE synchronize over!
+2015-01-24 13:57:19,267: NOTICE server recv query from client(IP10.211.55.5:34270)
+2015-01-24 13:57:19,268: NOTICE run thread's hash_map cache no result,go to hash_map index of dic for answer
+2015-01-24 13:57:19,268: NOTICE send msg successful to client(IP10.211.55.5:34270)
+2015-01-24 13:57:19,886: NOTICE cache synchronize start!
+2015-01-24 13:57:19,887: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 13:57:19,887: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 13:57:19,888: NOTICE disk cache write is over!
+2015-01-24 13:57:19,888: NOTICE synchronize over!
+2015-01-24 13:57:21,041: NOTICE server recv query from client(IP10.211.55.5:33872)
+2015-01-24 13:57:21,041: NOTICE run thread's hash_map cache no result,go to hash_map index of dic for answer
+2015-01-24 13:57:21,042: NOTICE send msg successful to client(IP10.211.55.5:33872)
+2015-01-24 13:57:22,570: NOTICE server recv query from client(IP10.211.55.5:52294)
+2015-01-24 13:57:22,570: NOTICE run thread's hash_map cache no result,go to hash_map index of dic for answer
+2015-01-24 13:57:22,572: NOTICE send msg successful to client(IP10.211.55.5:52294)
+2015-01-24 13:57:29,891: NOTICE cache synchronize start!
+2015-01-24 13:57:29,893: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 13:57:29,893: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 13:57:29,893: NOTICE disk cache write is over!
+2015-01-24 13:57:29,893: NOTICE synchronize over!
+2015-01-24 13:57:39,898: NOTICE cache synchronize start!
+2015-01-24 13:57:39,900: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 13:57:39,900: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 13:57:39,900: NOTICE disk cache write is over!
+2015-01-24 13:57:39,900: NOTICE synchronize over!
+2015-01-24 13:57:49,902: NOTICE cache synchronize start!
+2015-01-24 13:57:49,903: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 13:57:49,903: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 13:57:49,903: NOTICE disk cache write is over!
+2015-01-24 13:57:49,904: NOTICE synchronize over!
+2015-01-24 13:57:59,908: NOTICE cache synchronize start!
+2015-01-24 13:57:59,910: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 13:57:59,910: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 13:57:59,910: NOTICE disk cache write is over!
+2015-01-24 13:57:59,910: NOTICE synchronize over!
+2015-01-24 13:58:09,913: NOTICE cache synchronize start!
+2015-01-24 13:58:09,915: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 13:58:09,915: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 13:58:09,915: NOTICE disk cache write is over!
+2015-01-24 13:58:09,915: NOTICE synchronize over!
+2015-01-24 13:58:19,920: NOTICE cache synchronize start!
+2015-01-24 13:58:19,922: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 13:58:19,922: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 13:58:19,922: NOTICE disk cache write is over!
+2015-01-24 13:58:19,922: NOTICE synchronize over!
+2015-01-24 13:58:29,926: NOTICE cache synchronize start!
+2015-01-24 13:58:29,928: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 13:58:29,928: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 13:58:29,928: NOTICE disk cache write is over!
+2015-01-24 13:58:29,928: NOTICE synchronize over!
+2015-01-24 13:58:39,931: NOTICE cache synchronize start!
+2015-01-24 13:58:39,933: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 13:58:39,933: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 13:58:39,933: NOTICE disk cache write is over!
+2015-01-24 13:58:39,933: NOTICE synchronize over!
+2015-01-24 13:58:49,939: NOTICE cache synchronize start!
+2015-01-24 13:58:49,941: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 13:58:49,941: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 13:58:49,941: NOTICE disk cache write is over!
+2015-01-24 13:58:49,941: NOTICE synchronize over!
+2015-01-24 13:58:59,948: NOTICE cache synchronize start!
+2015-01-24 13:58:59,949: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 13:58:59,949: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 13:58:59,949: NOTICE disk cache write is over!
+2015-01-24 13:58:59,950: NOTICE synchronize over!
+2015-01-24 13:59:09,955: NOTICE cache synchronize start!
+2015-01-24 13:59:09,957: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 13:59:09,957: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 13:59:09,957: NOTICE disk cache write is over!
+2015-01-24 13:59:09,957: NOTICE synchronize over!
+2015-01-24 13:59:19,960: NOTICE cache synchronize start!
+2015-01-24 13:59:19,962: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 13:59:19,962: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 13:59:19,962: NOTICE disk cache write is over!
+2015-01-24 13:59:19,963: NOTICE synchronize over!
+2015-01-24 13:59:29,964: NOTICE cache synchronize start!
+2015-01-24 13:59:29,965: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 13:59:29,965: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 13:59:29,966: NOTICE disk cache write is over!
+2015-01-24 13:59:29,966: NOTICE synchronize over!
+2015-01-24 13:59:39,976: NOTICE cache synchronize start!
+2015-01-24 13:59:39,978: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 13:59:39,978: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 13:59:39,978: NOTICE disk cache write is over!
+2015-01-24 13:59:39,978: NOTICE synchronize over!
+2015-01-24 13:59:49,985: NOTICE cache synchronize start!
+2015-01-24 13:59:49,987: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 13:59:49,987: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 13:59:49,987: NOTICE disk cache write is over!
+2015-01-24 13:59:49,988: NOTICE synchronize over!
+2015-01-24 14:00:00,003: NOTICE cache synchronize start!
+2015-01-24 14:00:00,004: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:00:00,004: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:00:00,004: NOTICE disk cache write is over!
+2015-01-24 14:00:00,005: NOTICE synchronize over!
+2015-01-24 14:00:10,018: NOTICE cache synchronize start!
+2015-01-24 14:00:10,019: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:00:10,019: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:00:10,020: NOTICE disk cache write is over!
+2015-01-24 14:00:10,020: NOTICE synchronize over!
+2015-01-24 14:00:20,022: NOTICE cache synchronize start!
+2015-01-24 14:00:20,023: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:00:20,024: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:00:20,024: NOTICE disk cache write is over!
+2015-01-24 14:00:20,024: NOTICE synchronize over!
+2015-01-24 14:00:30,039: NOTICE cache synchronize start!
+2015-01-24 14:00:30,042: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:00:30,042: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:00:30,042: NOTICE disk cache write is over!
+2015-01-24 14:00:30,043: NOTICE synchronize over!
+2015-01-24 14:00:40,057: NOTICE cache synchronize start!
+2015-01-24 14:00:40,059: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:00:40,059: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:00:40,059: NOTICE disk cache write is over!
+2015-01-24 14:00:40,059: NOTICE synchronize over!
+2015-01-24 14:00:50,078: NOTICE cache synchronize start!
+2015-01-24 14:00:50,080: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:00:50,080: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:00:50,080: NOTICE disk cache write is over!
+2015-01-24 14:00:50,080: NOTICE synchronize over!
+2015-01-24 14:01:00,090: NOTICE cache synchronize start!
+2015-01-24 14:01:00,091: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:01:00,091: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:01:00,091: NOTICE disk cache write is over!
+2015-01-24 14:01:00,091: NOTICE synchronize over!
+2015-01-24 14:01:06,291: NOTICE server recv query from client(IP10.211.55.5:37267)
+2015-01-24 14:01:06,292: NOTICE run thread's hash_map cache no result,go to hash_map index of dic for answer
+2015-01-24 14:01:06,293: NOTICE send msg successful to client(IP10.211.55.5:37267)
+2015-01-24 14:01:10,096: NOTICE cache synchronize start!
+2015-01-24 14:01:10,098: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:01:10,098: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:01:10,098: NOTICE disk cache write is over!
+2015-01-24 14:01:10,098: NOTICE synchronize over!
+2015-01-24 14:01:20,099: NOTICE cache synchronize start!
+2015-01-24 14:01:20,101: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:01:20,101: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:01:20,101: NOTICE disk cache write is over!
+2015-01-24 14:01:20,101: NOTICE synchronize over!
+2015-01-24 14:01:30,103: NOTICE cache synchronize start!
+2015-01-24 14:01:30,105: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:01:30,105: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:01:30,105: NOTICE disk cache write is over!
+2015-01-24 14:01:30,106: NOTICE synchronize over!
+2015-01-24 14:01:40,113: NOTICE cache synchronize start!
+2015-01-24 14:01:40,115: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:01:40,115: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:01:40,115: NOTICE disk cache write is over!
+2015-01-24 14:01:40,116: NOTICE synchronize over!
+2015-01-24 14:01:50,136: NOTICE cache synchronize start!
+2015-01-24 14:01:50,138: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:01:50,138: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:01:50,139: NOTICE disk cache write is over!
+2015-01-24 14:01:50,139: NOTICE synchronize over!
+2015-01-24 14:01:55,892: NOTICE server recv query from client(IP10.211.55.5:51777)
+2015-01-24 14:01:55,893: NOTICE run thread's hash_map cache no result,go to hash_map index of dic for answer
+2015-01-24 14:01:55,906: NOTICE send msg successful to client(IP10.211.55.5:51777)
+2015-01-24 14:01:58,329: NOTICE server recv query from client(IP10.211.55.5:60039)
+2015-01-24 14:01:58,330: NOTICE run thread's hash_map cache no result,go to hash_map index of dic for answer
+2015-01-24 14:01:58,331: NOTICE send msg successful to client(IP10.211.55.5:60039)
+2015-01-24 14:02:00,142: NOTICE cache synchronize start!
+2015-01-24 14:02:00,143: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:02:00,143: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:02:00,144: NOTICE disk cache write is over!
+2015-01-24 14:02:00,144: NOTICE synchronize over!
+2015-01-24 14:02:10,145: NOTICE cache synchronize start!
+2015-01-24 14:02:10,147: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:02:10,147: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:02:10,147: NOTICE disk cache write is over!
+2015-01-24 14:02:10,147: NOTICE synchronize over!
+2015-01-24 14:02:20,152: NOTICE cache synchronize start!
+2015-01-24 14:02:20,153: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:02:20,153: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:02:20,153: NOTICE disk cache write is over!
+2015-01-24 14:02:20,154: NOTICE synchronize over!
+2015-01-24 14:02:30,156: NOTICE cache synchronize start!
+2015-01-24 14:02:30,157: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:02:30,157: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:02:30,158: NOTICE disk cache write is over!
+2015-01-24 14:02:30,158: NOTICE synchronize over!
+2015-01-24 14:02:40,158: NOTICE cache synchronize start!
+2015-01-24 14:02:40,160: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:02:40,160: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:02:40,160: NOTICE disk cache write is over!
+2015-01-24 14:02:40,160: NOTICE synchronize over!
+2015-01-24 14:02:50,173: NOTICE cache synchronize start!
+2015-01-24 14:02:50,174: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:02:50,174: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:02:50,175: NOTICE disk cache write is over!
+2015-01-24 14:02:50,175: NOTICE synchronize over!
+2015-01-24 14:03:00,180: NOTICE cache synchronize start!
+2015-01-24 14:03:00,181: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:03:00,181: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:03:00,182: NOTICE disk cache write is over!
+2015-01-24 14:03:00,182: NOTICE synchronize over!
+2015-01-24 14:03:10,185: NOTICE cache synchronize start!
+2015-01-24 14:03:10,187: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:03:10,187: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:03:10,187: NOTICE disk cache write is over!
+2015-01-24 14:03:10,188: NOTICE synchronize over!
+2015-01-24 14:03:12,902: NOTICE server recv query from client(IP10.211.55.5:43606)
+2015-01-24 14:03:12,902: NOTICE run thread's hash_map cache no result,go to hash_map index of dic for answer
+2015-01-24 14:03:12,929: NOTICE send msg successful to client(IP10.211.55.5:43606)
+2015-01-24 14:03:15,244: NOTICE server recv query from client(IP10.211.55.5:55743)
+2015-01-24 14:03:15,245: NOTICE run thread's hash_map cache no result,go to hash_map index of dic for answer
+2015-01-24 14:03:15,249: NOTICE send msg successful to client(IP10.211.55.5:55743)
+2015-01-24 14:03:18,520: NOTICE server recv query from client(IP10.211.55.5:33208)
+2015-01-24 14:03:18,520: NOTICE run thread's hash_map cache no result,go to hash_map index of dic for answer
+2015-01-24 14:03:18,523: NOTICE send msg successful to client(IP10.211.55.5:33208)
+2015-01-24 14:03:20,191: NOTICE cache synchronize start!
+2015-01-24 14:03:20,193: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:03:20,193: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:03:20,193: NOTICE disk cache write is over!
+2015-01-24 14:03:20,194: NOTICE synchronize over!
+2015-01-24 14:03:30,195: NOTICE cache synchronize start!
+2015-01-24 14:03:30,197: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:03:30,197: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:03:30,197: NOTICE disk cache write is over!
+2015-01-24 14:03:30,197: NOTICE synchronize over!
+2015-01-24 14:03:40,200: NOTICE cache synchronize start!
+2015-01-24 14:03:40,202: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:03:40,202: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:03:40,202: NOTICE disk cache write is over!
+2015-01-24 14:03:40,202: NOTICE synchronize over!
+2015-01-24 14:03:50,206: NOTICE cache synchronize start!
+2015-01-24 14:03:50,207: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:03:50,207: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:03:50,208: NOTICE disk cache write is over!
+2015-01-24 14:03:50,208: NOTICE synchronize over!
+2015-01-24 14:04:00,213: NOTICE cache synchronize start!
+2015-01-24 14:04:00,214: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:04:00,214: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:04:00,214: NOTICE disk cache write is over!
+2015-01-24 14:04:00,215: NOTICE synchronize over!
+2015-01-24 14:04:10,243: NOTICE cache synchronize start!
+2015-01-24 14:04:10,245: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:04:10,245: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:04:10,245: NOTICE disk cache write is over!
+2015-01-24 14:04:10,246: NOTICE synchronize over!
+2015-01-24 14:04:20,258: NOTICE cache synchronize start!
+2015-01-24 14:04:20,262: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:04:20,262: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:04:20,262: NOTICE disk cache write is over!
+2015-01-24 14:04:20,262: NOTICE synchronize over!
+2015-01-24 14:04:30,266: NOTICE cache synchronize start!
+2015-01-24 14:04:30,268: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:04:30,268: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:04:30,268: NOTICE disk cache write is over!
+2015-01-24 14:04:30,268: NOTICE synchronize over!
+2015-01-24 14:04:40,272: NOTICE cache synchronize start!
+2015-01-24 14:04:40,274: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:04:40,274: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:04:40,274: NOTICE disk cache write is over!
+2015-01-24 14:04:40,275: NOTICE synchronize over!
+2015-01-24 14:04:50,278: NOTICE cache synchronize start!
+2015-01-24 14:04:50,280: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:04:50,280: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:04:50,280: NOTICE disk cache write is over!
+2015-01-24 14:04:50,280: NOTICE synchronize over!
+2015-01-24 14:05:00,295: NOTICE cache synchronize start!
+2015-01-24 14:05:00,297: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:05:00,297: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:05:00,297: NOTICE disk cache write is over!
+2015-01-24 14:05:00,298: NOTICE synchronize over!
+2015-01-24 14:05:10,307: NOTICE cache synchronize start!
+2015-01-24 14:05:10,309: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:05:10,309: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:05:10,309: NOTICE disk cache write is over!
+2015-01-24 14:05:10,310: NOTICE synchronize over!
+2015-01-24 14:05:20,312: NOTICE cache synchronize start!
+2015-01-24 14:05:20,314: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:05:20,314: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:05:20,314: NOTICE disk cache write is over!
+2015-01-24 14:05:20,314: NOTICE synchronize over!
+2015-01-24 14:05:30,353: NOTICE cache synchronize start!
+2015-01-24 14:05:30,355: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:05:30,355: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:05:30,355: NOTICE disk cache write is over!
+2015-01-24 14:05:30,355: NOTICE synchronize over!
+2015-01-24 14:05:40,356: NOTICE cache synchronize start!
+2015-01-24 14:05:40,358: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:05:40,358: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:05:40,358: NOTICE disk cache write is over!
+2015-01-24 14:05:40,359: NOTICE synchronize over!
+2015-01-24 14:05:50,364: NOTICE cache synchronize start!
+2015-01-24 14:05:50,366: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:05:50,366: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:05:50,366: NOTICE disk cache write is over!
+2015-01-24 14:05:50,366: NOTICE synchronize over!
+2015-01-24 14:06:00,388: NOTICE cache synchronize start!
+2015-01-24 14:06:00,389: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:06:00,389: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:06:00,390: NOTICE disk cache write is over!
+2015-01-24 14:06:00,390: NOTICE synchronize over!
+2015-01-24 14:06:10,422: NOTICE cache synchronize start!
+2015-01-24 14:06:10,423: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:06:10,423: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:06:10,424: NOTICE disk cache write is over!
+2015-01-24 14:06:10,424: NOTICE synchronize over!
+2015-01-24 14:06:20,425: NOTICE cache synchronize start!
+2015-01-24 14:06:20,427: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:06:20,427: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:06:20,428: NOTICE disk cache write is over!
+2015-01-24 14:06:20,428: NOTICE synchronize over!
+2015-01-24 14:06:30,437: NOTICE cache synchronize start!
+2015-01-24 14:06:30,439: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:06:30,439: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:06:30,439: NOTICE disk cache write is over!
+2015-01-24 14:06:30,439: NOTICE synchronize over!
+2015-01-24 14:06:40,467: NOTICE cache synchronize start!
+2015-01-24 14:06:40,469: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:06:40,469: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:06:40,469: NOTICE disk cache write is over!
+2015-01-24 14:06:40,469: NOTICE synchronize over!
+2015-01-24 14:06:50,473: NOTICE cache synchronize start!
+2015-01-24 14:06:50,474: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:06:50,474: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:06:50,475: NOTICE disk cache write is over!
+2015-01-24 14:06:50,475: NOTICE synchronize over!
+2015-01-24 14:07:00,478: NOTICE cache synchronize start!
+2015-01-24 14:07:00,479: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:07:00,479: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:07:00,479: NOTICE disk cache write is over!
+2015-01-24 14:07:00,480: NOTICE synchronize over!
+2015-01-24 14:07:10,481: NOTICE cache synchronize start!
+2015-01-24 14:07:10,483: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:07:10,483: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:07:10,483: NOTICE disk cache write is over!
+2015-01-24 14:07:10,483: NOTICE synchronize over!
+2015-01-24 14:07:20,514: NOTICE cache synchronize start!
+2015-01-24 14:07:20,516: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:07:20,516: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:07:20,516: NOTICE disk cache write is over!
+2015-01-24 14:07:20,517: NOTICE synchronize over!
+2015-01-24 14:07:30,555: NOTICE cache synchronize start!
+2015-01-24 14:07:30,557: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:07:30,557: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:07:30,557: NOTICE disk cache write is over!
+2015-01-24 14:07:30,557: NOTICE synchronize over!
+2015-01-24 14:07:40,561: NOTICE cache synchronize start!
+2015-01-24 14:07:40,562: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:07:40,562: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:07:40,563: NOTICE disk cache write is over!
+2015-01-24 14:07:40,563: NOTICE synchronize over!
+2015-01-24 14:07:50,565: NOTICE cache synchronize start!
+2015-01-24 14:07:50,566: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:07:50,566: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:07:50,566: NOTICE disk cache write is over!
+2015-01-24 14:07:50,566: NOTICE synchronize over!
+2015-01-24 14:08:00,570: NOTICE cache synchronize start!
+2015-01-24 14:08:00,572: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:08:00,572: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:08:00,572: NOTICE disk cache write is over!
+2015-01-24 14:08:00,572: NOTICE synchronize over!
+2015-01-24 14:08:10,578: NOTICE cache synchronize start!
+2015-01-24 14:08:10,579: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:08:10,579: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:08:10,579: NOTICE disk cache write is over!
+2015-01-24 14:08:10,580: NOTICE synchronize over!
+2015-01-24 14:08:20,586: NOTICE cache synchronize start!
+2015-01-24 14:08:20,589: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:08:20,589: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:08:20,589: NOTICE disk cache write is over!
+2015-01-24 14:08:20,589: NOTICE synchronize over!
+2015-01-24 14:08:30,593: NOTICE cache synchronize start!
+2015-01-24 14:08:30,596: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:08:30,597: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:08:30,597: NOTICE disk cache write is over!
+2015-01-24 14:08:30,597: NOTICE synchronize over!
+2015-01-24 14:08:40,598: NOTICE cache synchronize start!
+2015-01-24 14:08:40,600: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:08:40,600: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:08:40,600: NOTICE disk cache write is over!
+2015-01-24 14:08:40,600: NOTICE synchronize over!
+2015-01-24 14:08:50,657: NOTICE cache synchronize start!
+2015-01-24 14:08:50,659: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:08:50,659: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:08:50,659: NOTICE disk cache write is over!
+2015-01-24 14:08:50,660: NOTICE synchronize over!
+2015-01-24 14:09:00,671: NOTICE cache synchronize start!
+2015-01-24 14:09:00,673: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:09:00,673: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:09:00,673: NOTICE disk cache write is over!
+2015-01-24 14:09:00,673: NOTICE synchronize over!
+2015-01-24 14:09:10,675: NOTICE cache synchronize start!
+2015-01-24 14:09:10,676: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:09:10,676: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:09:10,676: NOTICE disk cache write is over!
+2015-01-24 14:09:10,677: NOTICE synchronize over!
+2015-01-24 14:09:20,681: NOTICE cache synchronize start!
+2015-01-24 14:09:20,683: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:09:20,683: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:09:20,683: NOTICE disk cache write is over!
+2015-01-24 14:09:20,684: NOTICE synchronize over!
+2015-01-24 14:09:30,705: NOTICE cache synchronize start!
+2015-01-24 14:09:30,707: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:09:30,707: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:09:30,707: NOTICE disk cache write is over!
+2015-01-24 14:09:30,708: NOTICE synchronize over!
+2015-01-24 14:09:40,725: NOTICE cache synchronize start!
+2015-01-24 14:09:40,726: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:09:40,726: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:09:40,727: NOTICE disk cache write is over!
+2015-01-24 14:09:40,727: NOTICE synchronize over!
+2015-01-24 14:09:50,728: NOTICE cache synchronize start!
+2015-01-24 14:09:50,730: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:09:50,730: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:09:50,730: NOTICE disk cache write is over!
+2015-01-24 14:09:50,731: NOTICE synchronize over!
+2015-01-24 14:10:00,749: NOTICE cache synchronize start!
+2015-01-24 14:10:00,751: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:10:00,751: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:10:00,751: NOTICE disk cache write is over!
+2015-01-24 14:10:00,751: NOTICE synchronize over!
+2015-01-24 14:10:10,754: NOTICE cache synchronize start!
+2015-01-24 14:10:10,756: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:10:10,756: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:10:10,756: NOTICE disk cache write is over!
+2015-01-24 14:10:10,756: NOTICE synchronize over!
+2015-01-24 14:10:20,763: NOTICE cache synchronize start!
+2015-01-24 14:10:20,764: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:10:20,764: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:10:20,765: NOTICE disk cache write is over!
+2015-01-24 14:10:20,765: NOTICE synchronize over!
+2015-01-24 14:10:30,765: NOTICE cache synchronize start!
+2015-01-24 14:10:30,766: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:10:30,766: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:10:30,767: NOTICE disk cache write is over!
+2015-01-24 14:10:30,767: NOTICE synchronize over!
+2015-01-24 14:10:40,787: NOTICE cache synchronize start!
+2015-01-24 14:10:40,789: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:10:40,789: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:10:40,789: NOTICE disk cache write is over!
+2015-01-24 14:10:40,790: NOTICE synchronize over!
+2015-01-24 14:10:50,792: NOTICE cache synchronize start!
+2015-01-24 14:10:50,794: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:10:50,794: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:10:50,794: NOTICE disk cache write is over!
+2015-01-24 14:10:50,794: NOTICE synchronize over!
+2015-01-24 14:11:00,804: NOTICE cache synchronize start!
+2015-01-24 14:11:00,806: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:11:00,806: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:11:00,806: NOTICE disk cache write is over!
+2015-01-24 14:11:00,807: NOTICE synchronize over!
+2015-01-24 14:11:10,807: NOTICE cache synchronize start!
+2015-01-24 14:11:10,809: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:11:10,809: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:11:10,809: NOTICE disk cache write is over!
+2015-01-24 14:11:10,809: NOTICE synchronize over!
+2015-01-24 14:11:20,826: NOTICE cache synchronize start!
+2015-01-24 14:11:20,828: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:11:20,828: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:11:20,828: NOTICE disk cache write is over!
+2015-01-24 14:11:20,828: NOTICE synchronize over!
+2015-01-24 14:11:30,832: NOTICE cache synchronize start!
+2015-01-24 14:11:30,834: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:11:30,834: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:11:30,834: NOTICE disk cache write is over!
+2015-01-24 14:11:30,834: NOTICE synchronize over!
+2015-01-24 14:11:40,840: NOTICE cache synchronize start!
+2015-01-24 14:11:40,842: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:11:40,842: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:11:40,842: NOTICE disk cache write is over!
+2015-01-24 14:11:40,843: NOTICE synchronize over!
+2015-01-24 14:11:50,846: NOTICE cache synchronize start!
+2015-01-24 14:11:50,848: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:11:50,848: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:11:50,848: NOTICE disk cache write is over!
+2015-01-24 14:11:50,849: NOTICE synchronize over!
+2015-01-24 14:12:00,852: NOTICE cache synchronize start!
+2015-01-24 14:12:00,854: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:12:00,854: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:12:00,854: NOTICE disk cache write is over!
+2015-01-24 14:12:00,854: NOTICE synchronize over!
+2015-01-24 14:12:10,857: NOTICE cache synchronize start!
+2015-01-24 14:12:10,858: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:12:10,858: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:12:10,859: NOTICE disk cache write is over!
+2015-01-24 14:12:10,859: NOTICE synchronize over!
+2015-01-24 14:12:20,861: NOTICE cache synchronize start!
+2015-01-24 14:12:20,862: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:12:20,862: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:12:20,863: NOTICE disk cache write is over!
+2015-01-24 14:12:20,863: NOTICE synchronize over!
+2015-01-24 14:12:30,914: NOTICE cache synchronize start!
+2015-01-24 14:12:30,916: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:12:30,916: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:12:30,916: NOTICE disk cache write is over!
+2015-01-24 14:12:30,917: NOTICE synchronize over!
+2015-01-24 14:12:40,919: NOTICE cache synchronize start!
+2015-01-24 14:12:40,921: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:12:40,921: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:12:40,921: NOTICE disk cache write is over!
+2015-01-24 14:12:40,922: NOTICE synchronize over!
+2015-01-24 14:12:50,923: NOTICE cache synchronize start!
+2015-01-24 14:12:50,925: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:12:50,925: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:12:50,925: NOTICE disk cache write is over!
+2015-01-24 14:12:50,926: NOTICE synchronize over!
+2015-01-24 14:13:00,932: NOTICE cache synchronize start!
+2015-01-24 14:13:00,934: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:13:00,934: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:13:00,934: NOTICE disk cache write is over!
+2015-01-24 14:13:00,934: NOTICE synchronize over!
+2015-01-24 14:13:10,938: NOTICE cache synchronize start!
+2015-01-24 14:13:10,939: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:13:10,939: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:13:10,940: NOTICE disk cache write is over!
+2015-01-24 14:13:10,940: NOTICE synchronize over!
+2015-01-24 14:13:20,943: NOTICE cache synchronize start!
+2015-01-24 14:13:20,945: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:13:20,945: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:13:20,945: NOTICE disk cache write is over!
+2015-01-24 14:13:20,945: NOTICE synchronize over!
+2015-01-24 14:13:30,954: NOTICE cache synchronize start!
+2015-01-24 14:13:30,956: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:13:30,956: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:13:30,956: NOTICE disk cache write is over!
+2015-01-24 14:13:30,957: NOTICE synchronize over!
+2015-01-24 14:13:40,962: NOTICE cache synchronize start!
+2015-01-24 14:13:40,963: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:13:40,963: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:13:40,964: NOTICE disk cache write is over!
+2015-01-24 14:13:40,964: NOTICE synchronize over!
+2015-01-24 14:13:50,966: NOTICE cache synchronize start!
+2015-01-24 14:13:50,968: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:13:50,968: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:13:50,968: NOTICE disk cache write is over!
+2015-01-24 14:13:50,969: NOTICE synchronize over!
+2015-01-24 14:14:00,971: NOTICE cache synchronize start!
+2015-01-24 14:14:00,972: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:14:00,973: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:14:00,973: NOTICE disk cache write is over!
+2015-01-24 14:14:00,973: NOTICE synchronize over!
+2015-01-24 14:14:10,993: NOTICE cache synchronize start!
+2015-01-24 14:14:10,994: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:14:10,994: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:14:10,995: NOTICE disk cache write is over!
+2015-01-24 14:14:10,995: NOTICE synchronize over!
+2015-01-24 14:14:20,999: NOTICE cache synchronize start!
+2015-01-24 14:14:21,001: NOTICE cache thread syschronize thread_pool's hash_map
+2015-01-24 14:14:21,001: NOTICE cache thread syschronize result back to thread_pool
+2015-01-24 14:14:21,001: NOTICE disk cache write is over!
+2015-01-24 14:14:21,001: NOTICE synchronize over!
